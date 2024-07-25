@@ -6,6 +6,7 @@
     "price": 30,
     "stock": 50,
     "category": "basicos",
+    "code": "basico001",
     "image": "/src/assets/flashlight.png"
   },
   {
@@ -15,6 +16,7 @@
     "price": 65,
     "stock": 50,
     "category": "basicos",
+    "code": "basico002",
     "image": "/src/assets/dots.png"
   },
   {
@@ -24,6 +26,7 @@
     "price": 45,
     "stock": 50,
     "category": "basicos",
+    "code": "basico003",
     "image": "/src/assets/emf.png"
   },
   {
@@ -33,6 +36,7 @@
     "price": 40,
     "stock": 50,
     "category": "basicos",
+    "code": "basico004",
     "image": "/src/assets/gw.png"
   },
   {
@@ -42,6 +46,7 @@
     "price": 50,
     "stock": 50,
     "category": "basicos",
+    "code": "basico005",
     "image": "/src/assets/sb.png"
   },
   {
@@ -51,6 +56,7 @@
     "price": 30,
     "stock": 50,
     "category": "basicos",
+    "code": "basico006",
     "image": "/src/assets/thermo.png"
   },
   {
@@ -60,6 +66,7 @@
     "price": 35,
     "stock": 50,
     "category": "basicos",
+    "code": "basico007",
     "image": "/src/assets/uv.png"
   },
   {
@@ -69,6 +76,7 @@
     "price": 50,
     "stock": 50,
     "category": "basicos",
+    "code": "basico008",
     "image": "/src/assets/cam.png"
   },
   {
@@ -78,6 +86,7 @@
     "price": 30,
     "stock": 50,
     "category": "extras",
+    "code": "extras001",
     "image": "/src/assets/cruci.png"
   },
   {
@@ -87,6 +96,7 @@
     "price": 15,
     "stock": 50,
     "category": "extras",
+    "code": "extras002",
     "image": "/src/assets/incense.png"
   },
   {
@@ -96,6 +106,7 @@
     "price": 15,
     "stock": 50,
     "category": "extras",
+    "code": "extras003",
     "image": "/src/assets/salt.png"
   },
   {
@@ -105,6 +116,7 @@
     "price": 100,
     "stock": 50,
     "category": "extras",
+    "code": "extras004",
     "image": "/src/assets/motionsensor.png"
   }
 ]
